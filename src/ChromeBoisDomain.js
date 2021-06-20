@@ -36,5 +36,4 @@ export default class ChromeBoisDomain extends Component {
       )
   }
 }
-React
-Reply
+
